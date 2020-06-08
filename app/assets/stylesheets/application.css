@@ -13,3 +13,13 @@
  *= require_tree .
  *= require_self
  */
+
+$gray: #F4F4F4;
+
+body {
+  background: $gray;
+}
+
+h1 {
+  font-family: open-sans;
+}
